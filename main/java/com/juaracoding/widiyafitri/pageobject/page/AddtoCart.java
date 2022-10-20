@@ -49,7 +49,7 @@ public class AddtoCart {
         selectColorOption.selectByIndex(1);
         System.out.println("Choose Color Option");
         selectSizeOption.selectByIndex(3);
-        System.out.println("Choose Size Optione");
+        System.out.println("Choose Size Option");
         itemQty.click();
         System.out.println("Click quantity button");
         btnAddCart.click();
